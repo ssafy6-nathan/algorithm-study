@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class b17086_¾Æ±â»ó¾î2 {
+public class b17086_ì•„ê¸°ìƒì–´2 {
 	static int N, M;
 	static int[][] map;
 	static int[] dr = { -1, -1, 0, 1, 1, 1, 0, -1 };
