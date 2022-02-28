@@ -33,8 +33,10 @@ public class Baekjoon17086 {
         }
 
         for (int i = 0; i < N; i++) 
-            for (int j = 0; j < M; j++) 
-                bfs(i,j);
+            for (int j = 0; j < M; j++)
+                if (map[i][j] == 0) 
+                    bfs(i,j);
+                
 
         System.out.println(maxLen);
     }
