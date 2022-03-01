@@ -1,23 +1,29 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Scanner;
+import java.util.StringTokenizer;
 
-public class b17086_ì•„ê¸°ìƒì–´2 {
+public class b17086_¾Æ±â»ó¾î2_¸Ş¸ğ¸®ÃÊ°ú2 {
 	static int N, M;
 	static int[][] map;
 	static int[] dr = { -1, -1, 0, 1, 1, 1, 0, -1 };
 	static int[] dc = { 0, 1, 1, 1, 0, -1, -1, -1 };
 	static boolean[][] visit;
 
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		N = in.nextInt();
-		M = in.nextInt();
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		
 		map = new int[N][M];
 		visit = new boolean[N][M];
 		for (int r = 0; r < N; r++) {
-			for (int c = 0; c < M; c++) {
-				map[r][c] = in.nextInt();
+			st = new StringTokenizer(br.readLine());
+			for (int c = 0; c < M; c++) {			
+				map[r][c] = Integer.parseInt(st.nextToken());
 			}
 		}
 		int max = 0;
@@ -31,7 +37,7 @@ public class b17086_ì•„ê¸°ìƒì–´2 {
 			}
 		}
 		System.out.println(max);
-		in.close();
+		br.close();
 	}
 
 	public static int bfs(int r, int c) {
