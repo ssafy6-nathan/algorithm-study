@@ -33,7 +33,7 @@
 
 ## 🌈Contributors
 
-| **[손영배](https://github.com/dudqo225)** | **[이정훈](https://github.com/person003333)** | **[한지희](https://github.com/WzzirrrriYA)** | **[한혜성](https://github.com/Hyesung-Han)** | **[황정준](https://github.com/DeerGum)** |
+| **[손영배](https://github.com/dudqo225)** | **[이정훈](https://github.com/person003333)** | **[한지희](https://github.com/WzzirrrriYA)** **[한지희](https://github.com/g2hhh2ee)** | **[한혜성](https://github.com/Hyesung-Han)** | **[황정준](https://github.com/DeerGum)** |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
 
 <br>
