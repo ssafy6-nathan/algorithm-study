@@ -7,6 +7,7 @@ a_DNA_len = len(after_DNA)
 min_len = min(a_DNA_len, b_DNA_len)
 start_virus = 0
 end_virus = 0
+
 for i in range(min_len):
     if before_DNA[i] == after_DNA[i]:
         start_virus += 1
@@ -21,5 +22,5 @@ for j in range(min_len):
 
 end_virus = a_DNA_len - end_virus
 ans = max(end_virus-start_virus, 0)
-print(ans)
+
 print(max(ans, a_DNA_len - b_DNA_len))
