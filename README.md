@@ -37,7 +37,7 @@
 
 | **[손영배](https://github.com/dudqo225)** | **[이정훈](https://github.com/person003333)** | **[황정준](https://github.com/DeerGum)** | **[한혜성](https://github.com/Hyesung-Han)** | **[한지희](https://github.com/g2hhh2ee)** |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| <img src="https://user-images.githubusercontent.com/47655983/156922166-884ce18e-22ae-413d-97c9-93d5aa072d02.png" width=150px, height=150px> | <img src="https://user-images.githubusercontent.com/47655983/156922305-3726e3c9-24ad-4e02-8d31-a9e4f1e0145e.png" width=150px, height=150px> | <img src="https://user-images.githubusercontent.com/47655983/156922316-3daa08a9-072e-482e-9825-7a636972af60.png" width=150px, height=150px> | <img src="https://user-images.githubusercontent.com/47655983/156922329-395e577c-9d2a-49cd-9719-c77184c931e5.png" width=150px, height=150px> | <img src="https://user-images.githubusercontent.com/47655983/156922344-81074208-8874-4d90-b462-392b15472bcd.png" width=150px, height=150px> |
+| <img src="https://user-images.githubusercontent.com/47655983/156922166-884ce18e-22ae-413d-97c9-93d5aa072d02.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922305-3726e3c9-24ad-4e02-8d31-a9e4f1e0145e.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922316-3daa08a9-072e-482e-9825-7a636972af60.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922329-395e577c-9d2a-49cd-9719-c77184c931e5.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922344-81074208-8874-4d90-b462-392b15472bcd.png" width=130px, height=130px> |
 
 <br>
 
