@@ -29,6 +29,7 @@ public class Baekjoon2579 {
         for (int i = 3; i < dp.length; i++)
             dp[i] = Math.max(dp[i-2], dp[i-3] + stairsArr[i-1]) + stairsArr[i];
 
+        br.close();
         System.out.println(dp[stairs]);
 
     }
