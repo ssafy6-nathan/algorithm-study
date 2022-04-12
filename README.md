@@ -44,12 +44,13 @@
 
 ## 🎯Week Study
 
-| 날짜 | 리더 | 1 | 2 | 3 | 4 | 5 |
-| :----: | --------------- | ------------- | -------------- | -------------- | -------------- | -------------- |
-| 2022.03.01 | 황정준 | [아기상어2](https://www.acmicpc.net/problem/17086) | [바이러스복제](https://www.acmicpc.net/problem/9241) | [유기농배추](https://www.acmicpc.net/problem/1012) | | |
-| 2022.03.08 | 이정훈 | [계단오르기](https://www.acmicpc.net/problem/2579) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [회문](https://www.acmicpc.net/problem/17609) | [사회망 서비스](https://www.acmicpc.net/problem/2533) | |
-| 2022.03.15 | 한지희 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [괄호의 값](https://www.acmicpc.net/problem/2504) | [별 찍기-10](https://www.acmicpc.net/problem/2447) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | |
-| 2022.03.22 | 손영배 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)|[친구비](https://www.acmicpc.net/problem/16562) | [문자열폭발](https://www.acmicpc.net/problem/9935)| [운동](https://www.acmicpc.net/problem/1956)| |
-| 2022.03.29 | 한혜성 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487) | |
-| 2022.04.05 | 황정준 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053) | [안티세포](https://programmers.co.kr/learn/courses/30/lessons/86054) | |
-| 2022.04.12 |  | [동전 0](https://www.acmicpc.net/problem/11047) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [네트워크 연결](https://www.acmicpc.net/problem/1922) | [보물](https://www.acmicpc.net/problem/1026) | |
+| 차수 | 날짜 | 리더 | 1 | 2 | 3 | 4 | 5 |
+|  | :----: | --------------- | ------------- | -------------- | -------------- | -------------- | -------------- |
+| 1 | 2022.03.01 | 황정준 | [아기상어2](https://www.acmicpc.net/problem/17086) | [바이러스복제](https://www.acmicpc.net/problem/9241) | [유기농배추](https://www.acmicpc.net/problem/1012) | | |
+| 2 | 2022.03.08 | 이정훈 | [계단오르기](https://www.acmicpc.net/problem/2579) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [회문](https://www.acmicpc.net/problem/17609) | [사회망 서비스](https://www.acmicpc.net/problem/2533) | |
+| 3 | 2022.03.15 | 한지희 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [괄호의 값](https://www.acmicpc.net/problem/2504) | [별 찍기-10](https://www.acmicpc.net/problem/2447) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | |
+| 4 | 2022.03.22 | 손영배 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)|[친구비](https://www.acmicpc.net/problem/16562) | [문자열폭발](https://www.acmicpc.net/problem/9935)| [운동](https://www.acmicpc.net/problem/1956)| |
+| 5 | 2022.03.29 | 한혜성 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487) | |
+| 6 | 2022.04.05 | 황정준 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053) | [안티세포](https://programmers.co.kr/learn/courses/30/lessons/86054) | |
+| 7 | 2022.04.12 | 이정훈 | [동전 0](https://www.acmicpc.net/problem/11047) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [네트워크 연결](https://www.acmicpc.net/problem/1922) | [보물](https://www.acmicpc.net/problem/1026) | |
+| 8 | 2022.04.19 | 한지희 | [도서관](https://www.acmicpc.net/problem/1461) | [222-풀링](https://www.acmicpc.net/problem/17829) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | [스타트링크](https://www.acmicpc.net/problem/5041) | |
