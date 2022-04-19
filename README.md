@@ -54,3 +54,4 @@
 | 6 | 2022.04.05 | 황정준 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053) | [안티세포](https://programmers.co.kr/learn/courses/30/lessons/86054) |
 | 7 | 2022.04.12 | 이정훈 | [동전 0](https://www.acmicpc.net/problem/11047) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [네트워크 연결](https://www.acmicpc.net/problem/1922) | [보물](https://www.acmicpc.net/problem/1026) |
 | 8 | 2022.04.19 | 한지희 | [도서관](https://www.acmicpc.net/problem/1461) | [222-풀링](https://www.acmicpc.net/problem/17829) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | [스타트링크](https://www.acmicpc.net/problem/5014) |
+| 9 | 2022.04.26 | 손영배 | [강의실배정](https://www.acmicpc.net/problem/11000) | [파일 합치기](https://www.acmicpc.net/problem/11066) | [회의실 배정](https://www.acmicpc.net/problem/1931) | [음식물 피하기](https://www.acmicpc.net/problem/1743) |
