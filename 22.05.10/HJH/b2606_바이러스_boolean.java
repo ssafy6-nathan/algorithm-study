@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class b2606_바이러스 {
@@ -25,16 +27,16 @@ public class b2606_바이러스 {
 		bfs(s);
 		System.out.println(cnt);
 	}
-	private static void bfs(int s) {
-		Queue<boolean> q = new LinkedList<boolean>();
+	private static int bfs(int s) {
+		Queue<Integer> q = new LinkedList<Integer>();
 		q.add(s);
-		visit[s]=true;
+		visited[s]=true;
 		while(!q.isEmpty()) {
 			int next_n = q.poll();
 			for(int i=1;i<=n;i++) {
-				if(map[next_n][i]==true && visit[i]==false) {
+				if(map[next_n][i]==true && visited[i]==false) {
 					q.add(i);
-					visit[i] = true;
+					visited[i] = true;
 					cnt++;
 				}
 			}
