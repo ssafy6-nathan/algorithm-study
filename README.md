@@ -58,7 +58,7 @@
 | 10 | 2022.05.03 | 한혜성 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [듣보잡](https://www.acmicpc.net/problem/1764) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
 | 11 | 2022.05.10 | 황정준 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [안전 영역](https://www.acmicpc.net/problem/2468) | [바이러스](https://www.acmicpc.net/problem/2606) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |
 | 12 | 2022.05.17 | 이정훈 | [주몽](https://www.acmicpc.net/problem/1940) | [수열](https://www.acmicpc.net/problem/2559) | [수들의 합2](https://www.acmicpc.net/problem/2003) | [두 용액](https://www.acmicpc.net/problem/2470) |
-| 13 | 2022.05.24 | 한지희 | [돌 던지기](https://www.acmicpc.net/problem/3025) | [퇴사2](https://www.acmicpc.net/problem/15486) | [수들의 합2](https://www.acmicpc.net/problem/2003) | [두 용액](https://www.acmicpc.net/problem/2470) |
+| 13 | 2022.05.24 | 한지희 | [돌 던지기](https://www.acmicpc.net/problem/3025) | [퇴사2](https://www.acmicpc.net/problem/15486) | [동물원](https://www.acmicpc.net/problem/1309) | [떡먹는 호랑이](https://www.acmicpc.net/problem/2502) |
 
 <br>
 
