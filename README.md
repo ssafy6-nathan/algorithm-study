@@ -36,9 +36,9 @@
 ## 🌈Contributors
 
 
-| **[손영배](https://github.com/dudqo225)** | **[이정훈](https://github.com/person003333)** | **[황정준](https://github.com/DeerGum)** | **[한혜성](https://github.com/Hyesung-Han)** | **[한지희](https://github.com/g2hhh2ee)** |
-| :-----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| <img src="https://user-images.githubusercontent.com/47655983/156922166-884ce18e-22ae-413d-97c9-93d5aa072d02.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922305-3726e3c9-24ad-4e02-8d31-a9e4f1e0145e.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922316-3daa08a9-072e-482e-9825-7a636972af60.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922329-395e577c-9d2a-49cd-9719-c77184c931e5.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922344-81074208-8874-4d90-b462-392b15472bcd.png" width=130px, height=130px> |
+| **[이정훈](https://github.com/person003333)** | **[황정준](https://github.com/DeerGum)** | **[한혜성](https://github.com/Hyesung-Han)** | **[한지희](https://github.com/g2hhh2ee)** |
+| :-----------------: | :-----------------: | :-----------------: | :-----------------: |
+| <img src="https://user-images.githubusercontent.com/47655983/156922305-3726e3c9-24ad-4e02-8d31-a9e4f1e0145e.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922316-3daa08a9-072e-482e-9825-7a636972af60.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922329-395e577c-9d2a-49cd-9719-c77184c931e5.png" width=130px, height=130px> | <img src="https://user-images.githubusercontent.com/47655983/156922344-81074208-8874-4d90-b462-392b15472bcd.png" width=130px, height=130px> |
 
 <br>
 
@@ -58,3 +58,12 @@
 | 10 | 2022.05.03 | 한혜성 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [듣보잡](https://www.acmicpc.net/problem/1764) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
 | 11 | 2022.05.10 | 황정준 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [안전 영역](https://www.acmicpc.net/problem/2468) | [바이러스](https://www.acmicpc.net/problem/2606) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |
 | 12 | 2022.05.17 | 이정훈 | [주몽](https://www.acmicpc.net/problem/1940) | [수열](https://www.acmicpc.net/problem/2559) | [수들의 합2](https://www.acmicpc.net/problem/2003) | [두 용액](https://www.acmicpc.net/problem/2470) |
+| 13 | 2022.05.24 | 한지희 | [돌 던지기](https://www.acmicpc.net/problem/3025) | [퇴사2](https://www.acmicpc.net/problem/15486) | [수들의 합2](https://www.acmicpc.net/problem/2003) | [두 용액](https://www.acmicpc.net/problem/2470) |
+
+<br>
+
+## 🏆 명예의 전당 
+
+| **[손영배](https://github.com/dudqo225)** |
+| :-----------------: |
+| <img src="https://user-images.githubusercontent.com/47655983/156922166-884ce18e-22ae-413d-97c9-93d5aa072d02.png" width=130px, height=130px> |
