@@ -1,7 +1,6 @@
 package study.nathan_algo_study.week17;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 /**
  * 문제이름 : 책 페이지
@@ -21,6 +20,14 @@ public class Baekjoon1019 {
         while (start <= n) {
             while (n % 10 != 9 && start <= n) {
                 cal(n, nums, point);
+                n--;
+            }
+
+            if (n < start)
+                break;
+
+            while (start % 10 != 0 && start <= n) {
+                cal(start, nums, point);
                 start++;
             }
 
@@ -34,7 +41,8 @@ public class Baekjoon1019 {
         }
 
         for (int i = 0; i < 10; i++)
-            System.out.println(nums[i] + " ");
+            System.out.print(nums[i] + " ");
+        System.out.println();
     }
 
     public static void cal(int n, int[] arr, int idx) {
