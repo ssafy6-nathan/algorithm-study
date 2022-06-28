@@ -64,7 +64,7 @@
 | 16 | 2022.06.14 | 이정훈 | [날짜 계산](https://www.acmicpc.net/problem/1476) | [스도쿠](https://www.acmicpc.net/problem/2580) | [로또](https://www.acmicpc.net/problem/6603) | [부등호](https://www.acmicpc.net/problem/2529) |
 | 17 | 2022.06.21 | 한지희 |  [암호 만들기](https://www.acmicpc.net/problem/1759) | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [책 페이지](https://www.acmicpc.net/problem/1019) |  |
 | 18 | 2022.06.28 | 한혜성 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [물병](https://www.acmicpc.net/problem/1052)  | [신기한 소수](https://www.acmicpc.net/problem/2023) | [검문](https://www.acmicpc.net/problem/2981) |
-| 19 | 2022.07.05 | 황정준 |  | |  |  |
+| 19 | 2022.07.05 | 황정준 | [다음 순열](https://www.acmicpc.net/problem/10972) | [경로 찾기](https://www.acmicpc.net/problem/11403) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [2048(Easy)](https://www.acmicpc.net/problem/12100) |
 | 20 | 2022.07.12 | 이정훈 |  | |  |  |
 | 21 | 2022.07.19 | 한지희 |  | |  |  |
 
