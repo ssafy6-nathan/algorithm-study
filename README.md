@@ -66,7 +66,7 @@
 | 18 | 2022.06.28 | 한혜성 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [물병](https://www.acmicpc.net/problem/1052)  | [신기한 소수](https://www.acmicpc.net/problem/2023) | [검문](https://www.acmicpc.net/problem/2981) |
 | 19 | 2022.07.05 | 황정준 | [다음 순열](https://www.acmicpc.net/problem/10972) | [경로 찾기](https://www.acmicpc.net/problem/11403) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [2048(Easy)](https://www.acmicpc.net/problem/12100) |
 | 20 | 2022.07.12 | 이정훈 |  [파티](https://www.acmicpc.net/problem/1238) | [게임 개발](https://www.acmicpc.net/problem/1516) | [Moo 게임](https://www.acmicpc.net/problem/5904) | [부분수열의 합](https://www.acmicpc.net/problem/1182) |
-| 21 | 2022.07.19 | 한지희 | [줄 세우기](https://www.acmicpc.net/problem/2252) |[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/3020) | [개똥벌레](https://www.acmicpc.net/problem/1780) | [종이의 ](https://www.acmicpc.net/problem/1780) |
+| 21 | 2022.07.19 | 한지희 | [줄 세우기](https://www.acmicpc.net/problem/2252) |[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/3020) | [개똥벌레](https://www.acmicpc.net/problem/1780) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
 | 22 | 2022.07.26 | 한혜성 | []() |[]() | []() | []() |
 | 23 | 2022.07.19 | 황정준 | []() |[]() | []() | []() |
 | 24 | 2022.07.19 | 이정훈 | []() |[]() | []() | []() |
