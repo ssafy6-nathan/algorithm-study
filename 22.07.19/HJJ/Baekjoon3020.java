@@ -12,7 +12,6 @@ public class Baekjoon3020 {
     static int N, H;
     static int[] top;
     static int[] bottom;
-    static int[] prefixSum;
     static int min, cnt;
 
     public static void main(String[] args) throws IOException {
@@ -23,7 +22,6 @@ public class Baekjoon3020 {
         H = Integer.parseInt(st.nextToken());
         top = new int[H + 1];
         bottom = new int[H + 1];
-        prefixSum = new int[H];
         for (int i = 0; i < N / 2; i++) {
             int topSize = Integer.parseInt(br.readLine());
             int bottomSize = Integer.parseInt(br.readLine());
