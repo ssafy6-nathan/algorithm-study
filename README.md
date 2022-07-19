@@ -68,9 +68,11 @@
 | 20 | 2022.07.12 | 이정훈 |  [파티](https://www.acmicpc.net/problem/1238) | [게임 개발](https://www.acmicpc.net/problem/1516) | [Moo 게임](https://www.acmicpc.net/problem/5904) | [부분수열의 합](https://www.acmicpc.net/problem/1182) |
 | 21 | 2022.07.19 | 한지희 | [줄 세우기](https://www.acmicpc.net/problem/2252) |[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [개똥벌레](https://www.acmicpc.net/problem/3020) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
 | 22 | 2022.07.26 | 한혜성 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |[최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [빙산](https://www.acmicpc.net/problem/2573) |
-| 23 | 2022.07.19 | 황정준 | []() |[]() | []() | []() |
-| 24 | 2022.07.19 | 이정훈 | []() |[]() | []() | []() |
-| 25 | 2022.07.19 | 한지희 | []() |[]() | []() | []() |
+| 23 | 2022.08.02 | 황정준 | []() |[]() | []() | []() |
+| 24 | 2022.08.09 | 이정훈 | []() |[]() | []() | []() |
+| 25 | 2022.08.16 | 한지희 | []() |[]() | []() | []() |
+| 26 | 2022.08.23 | 한혜성 | []() |[]() | []() | []() |
+| 27 | 2022.08.30 | 황정준 | []() |[]() | []() | []() |
 
 <br>
 
