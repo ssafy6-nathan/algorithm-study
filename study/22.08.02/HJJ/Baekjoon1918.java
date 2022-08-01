@@ -24,10 +24,10 @@ public class Baekjoon1918 {
             c = infixStr.charAt(i);
             if (Character.isAlphabetic(c)) {    //알파벳일때 (피연산자)
                 sb.append(c);
-            } else if (isOp(c)) {   //연자일때
-                while (!s.isEmpty() && isPriority(s.peek()) >= isPriority(c)) { //현재 연산자가 스택의 top 우선순위보다 크거나 같으면 pop
+            } else if (isOp(c)) {   //연산자일때
+                while (!s.isEmpty() && isPriority(s.peek()) >= isPriority(c))  //현재 연산자가 스택의 top 우선순위보다 크거나 같으면 pop
                     sb.append(s.pop());
-                }
+
                 s.add(c);
             } else if (c == '(') {  //여는 괄호이면
                 s.add(c);
@@ -60,9 +60,5 @@ public class Baekjoon1918 {
 }
 
 /*
-
-*
-
-
 
 */
