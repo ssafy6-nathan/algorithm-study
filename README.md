@@ -69,7 +69,7 @@
 | 21 | 2022.07.19 | 한지희 | [줄 세우기](https://www.acmicpc.net/problem/2252) |[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [개똥벌레](https://www.acmicpc.net/problem/3020) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
 | 22 | 2022.07.26 | 한혜성 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |[최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | [빙산](https://www.acmicpc.net/problem/2573) |
 | 23 | 2022.08.02 | 황정준 | [후위 표기식](https://www.acmicpc.net/problem/1918) |[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [꿀 아르바이트](https://www.acmicpc.net/problem/12847) |
-| 24 | 2022.08.09 | 이정훈 | []() |[]() | []() | []() |
+| 24 | 2022.08.09 | 이정훈 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
 | 25 | 2022.08.16 | 한지희 | []() |[]() | []() | []() |
 | 26 | 2022.08.23 | 한혜성 | []() |[]() | []() | []() |
 | 27 | 2022.08.30 | 황정준 | []() |[]() | []() | []() |
