@@ -72,7 +72,7 @@
 | 24 | 2022.08.09 | 이정훈 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
 | 25 | 2022.08.16 | 한지희 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |[세 용액](https://www.acmicpc.net/problem/2473) | [귀여운 라이언](https://www.acmicpc.net/problem/15565) | [다이어트](https://www.acmicpc.net/problem/1484) |
 | 26 | 2022.08.23 | 한혜성 | [도둑](https://www.acmicpc.net/problem/13422) |[내려가기](https://www.acmicpc.net/problem/2096) | [고냥이](https://www.acmicpc.net/problem/16472) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
-| 27 | 2022.08.30 | 황정준 | [종이 조각](https://www.acmicpc.net/problem/14391) |[성곽](https://www.acmicpc.net/problem/2234) | [사탕 게임](https://www.acmicpc.net/problem/3085) | [킹](https://www.acmicpc.net/problem/3085) |
+| 27 | 2022.08.30 | 황정준 | [종이 조각](https://www.acmicpc.net/problem/14391) |[성곽](https://www.acmicpc.net/problem/2234) | [사탕 게임](https://www.acmicpc.net/problem/3085) | [킹](https://www.acmicpc.net/problem/1063) |
 
 <br>
 
