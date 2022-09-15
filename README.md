@@ -74,7 +74,7 @@
 | 26 | 2022.08.23 | 한혜성 | [도둑](https://www.acmicpc.net/problem/13422) |[내려가기](https://www.acmicpc.net/problem/2096) | [고냥이](https://www.acmicpc.net/problem/16472) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
 | 27 | 2022.08.30 | 황정준 | [종이 조각](https://www.acmicpc.net/problem/14391) |[성곽](https://www.acmicpc.net/problem/2234) | [사탕 게임](https://www.acmicpc.net/problem/3085) | [킹](https://www.acmicpc.net/problem/1063) |
 | 28 | 2022.09.06 | 이정훈 | [집합](https://www.acmicpc.net/problem/11723) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | [링크와 스타트](https://www.acmicpc.net/problem/15661) | [동아리실 관리하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS) |
-| 29 | 2022.09.20 | 한지희 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | [키 순서](https://www.acmicpc.net/problem/2458) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [동아리실 관리하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS) |
+| 29 | 2022.09.20 | 한지희 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [피괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
 
 
 <!-- 
