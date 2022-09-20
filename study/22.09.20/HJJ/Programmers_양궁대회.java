@@ -68,24 +68,6 @@ public class Programmers_양궁대회 {
             ryan[i]--;
         }
     }
-
-    public int calPointRyan(int[] target) {
-        int sum = 0;
-        for (int i = 0; i < target.length; i++) {
-            if (target[i] != 0 && apeach[i] < target[i])
-                sum += point[i];
-        }
-        return sum;
-    }
-
-    public int calPointApeach(int[] target) {
-        int sum = 0;
-        for (int i = 0; i < target.length; i++) {
-            if (apeach[i] != 0 && apeach[i] >= target[i])
-                sum += point[i];
-        }
-        return sum;
-    }
 }
 /*
 
