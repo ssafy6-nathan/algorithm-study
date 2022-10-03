@@ -5,6 +5,7 @@ import java.io.*;
  * 부녀회장이 될테야 (https://www.acmicpc.net/problem/2775)
  * 분류 : 수학, 구현, 다이나믹 프로그래밍
  **/
+
 public class BJ_2775 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
