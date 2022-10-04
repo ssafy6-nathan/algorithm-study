@@ -1,4 +1,3 @@
-package week30;
 import java.io.*;
 
 /**
@@ -17,8 +16,12 @@ public class BJ_1003 {
 
         for (int k = 0; k < T; k++) {
             
-            // fibo(N)
+            // fibo(N)의 N값 입력받기
             int N = Integer.parseInt(br.readLine());
+
+            // 문제에서 N은 최대 40까지 입력받을 수 있으므로 41행 확보(0~40)
+            // dp[N][0] = 0의 개수 저장
+            // dp[N][1] = 1의 개수 저장
             dp = new int[41][2];
 
             // fibo(0)값 세팅
