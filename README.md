@@ -76,7 +76,7 @@
 | 28 | 2022.09.06 | 이정훈 | [집합](https://www.acmicpc.net/problem/11723) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | [링크와 스타트](https://www.acmicpc.net/problem/15661) | [동아리실 관리하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS) |
 | 29 | 2022.09.20 | 한지희 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [피괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
 | 30 | 2022.10.04 | 한혜성 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) |[다리 놓기](https://www.acmicpc.net/problem/1010) | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [LCS](https://www.acmicpc.net/problem/9251) |
-| 31 | 2022.10.11 |  |  |  |  |  |
+| 31 | 2022.10.11 | 이정훈 | [단어 공부](https://www.acmicpc.net/problem/1157) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [문자열 집합](https://www.acmicpc.net/problem/14425) | [AC](https://www.acmicpc.net/problem/5430) |
 | 32 | 2022.10.18 |  |  |  |  |  |
 | 33 | 2022.10.25 |  |  |  |  |  |
 | 34 | 2022.11.01 |  |  |  |  |  |
