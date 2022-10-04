@@ -1,4 +1,3 @@
-package week30;
 import java.io.*;
 
 /**
