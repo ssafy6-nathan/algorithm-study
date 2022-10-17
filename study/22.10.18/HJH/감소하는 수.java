@@ -25,9 +25,9 @@ public class Main {
                     }
                     tmp /= 2;
                 }
-                Collections.sort(list);
                 list.add(num);
             }
+            Collections.sort(list);
             System.out.println(list.get((int) N));
         }
     }
