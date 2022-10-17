@@ -1,11 +1,9 @@
-package BOJ;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_14712 {
+public class Main {
 
     static int N, M, size, cnt;
     static boolean[][] map;
