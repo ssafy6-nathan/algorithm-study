@@ -81,7 +81,7 @@
 | 31 | 2022.10.11 | 이정훈 | [단어 공부](https://www.acmicpc.net/problem/1157) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [문자열 집합](https://www.acmicpc.net/problem/14425) | [AC](https://www.acmicpc.net/problem/5430) |
 | 32 | 2022.10.18 | 한혜성 |[N과 M (1)](https://www.acmicpc.net/problem/15649)  | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
 | 33 | 2022.10.25 | 한지희 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [방금 그 곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
-| 34 | 2022.11.01 |  |  |  |  |  |
+| 34 | 2022.11.01 | 박기범 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) |
 | 35 | 2022.11.08 |  |  |  |  |  |
 | 36 | 2022.11.15 |  |  |  |  |  |
 | 37 | 2022.11.22 |  |  |  |  |  |
