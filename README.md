@@ -38,9 +38,9 @@
 
 | **[이정훈](https://github.com/person003333)** | **[황정준](https://github.com/DeerGum)** | **[한혜성](https://github.com/Hyesung-Han)** |
 | :-----------------: | :-----------------: | :-----------------: |
-| <img src="https://user-images.githubusercontent.com/47655983/197516331-ac421898-5cad-48eb-a5f7-abbb0dd040ee.png" width=300px, height=300px> | <img src="https://user-images.githubusercontent.com/47655983/197516399-668a7693-fcbc-46eb-94ae-4cdcd943172e.png" width=300px, height=300px> | <img src="https://user-images.githubusercontent.com/47655983/197516618-ba16c99b-c45d-4476-afc5-68980cfbde2e.png" width=300px, height=300px> | 
+| <img src="https://user-images.githubusercontent.com/47655983/197516331-ac421898-5cad-48eb-a5f7-abbb0dd040ee.png" width=250px, height=250px> | <img src="https://user-images.githubusercontent.com/47655983/197516399-668a7693-fcbc-46eb-94ae-4cdcd943172e.png" width=250px, height=250px> | <img src="https://user-images.githubusercontent.com/47655983/197516618-ba16c99b-c45d-4476-afc5-68980cfbde2e.png" width=250px, height=250px> | 
 | **[한지희](https://github.com/g2hhh2ee)** | **[방지민](https://github.com/REEENG9)** | **[박기범](https://github.com/kibum414)** |
-| <img src="https://user-images.githubusercontent.com/47655983/197516968-b72d7a27-6810-462e-99a3-06a1ea5f84f0.png" width=300px, height=300px> | <img src="https://user-images.githubusercontent.com/47655983/197517055-e47fabde-1cff-42e6-8c03-847947a52808.png" width=300px, height=300px> | <img src="https://user-images.githubusercontent.com/47655983/197517093-cad0b2fd-65b9-40d6-aa72-9a2a09e412e8.png" width=300px, height=300px> |
+| <img src="https://user-images.githubusercontent.com/47655983/197516968-b72d7a27-6810-462e-99a3-06a1ea5f84f0.png" width=250px, height=250px> | <img src="https://user-images.githubusercontent.com/47655983/197517055-e47fabde-1cff-42e6-8c03-847947a52808.png" width=250px, height=250px> | <img src="https://user-images.githubusercontent.com/47655983/197517093-cad0b2fd-65b9-40d6-aa72-9a2a09e412e8.png" width=250px, height=250px> |
 
 <br>
 
