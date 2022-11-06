@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 분류 : 수학, 트리, 최소 공통 조상
  **/
 public class BOJ_13116 {
-    static boolean[] visited;
+    static boolean[] visited; // 방문 체크 (최대 노드 개수 1023)
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -30,14 +30,17 @@ public class BOJ_13116 {
         bw.close();
     }
 
-    // 방문 체크
+    // 방문 체크 (A)
+    // 제시된 노드 번호에서 2로 나눈 몫이 부모 노드의 번호
+    // 노드 A의 경우, 루트까지 계속2로 나누어 방문 체크
     private static void visit(int v) {
         if (v == 0) return;
         visited[v] = true;
         visit(v/2 );
     }
 
-    // 최소 공통 조상 탐색
+    // 최소 공통 조상 탐색 (B)
+    // 노드 B의 경우, 2로 계속 나눠서 체크된 노드를 만나면 최소 공통 조상
     private static int check(int v) {
         if (visited[v]) return v;
         visited[v] = true;
@@ -45,8 +48,6 @@ public class BOJ_13116 {
     }
 }
 
-// 제시된 노드 번호에서 2로 나눈 몫이 부모
-// 계속 나눠서 방문체크
-// 두번째로 제시된 노드도 2로 계속 나눠서
-// 체크된 노드를 만나면 최소 공통 조상
-// 방문체크는 배열 (최대 1023개)
+
+
+

@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 
 /**
  * 백준 11725번
- * 트리의 부모찾기 (4) (https://www.acmicpc.net/problem/11725)
+ * 트리의 부모찾기 (https://www.acmicpc.net/problem/11725)
  * 분류 : 그래프 이론, 그래프 탐색, 트리, 너비 우선 탐색, 깊이 우선 탐색
  **/
 public class BOJ_11725 {
@@ -27,7 +27,7 @@ public class BOJ_11725 {
         for (int i = 0; i < list.length; i++) // 인접리스트 생성
             list[i] = new ArrayList<>();
 
-        for (int i = 0; i < N-1; i++) { // 연결 정보 입력
+        for (int i = 0; i < N-1; i++) { // 연결 정보 입력 (인덱스를 0부터 쓰므로 (노드 번호 - 1) 사용)
             st = new StringTokenizer(br.readLine());
             n1 = (Integer.parseInt(st.nextToken()) - 1);
             n2 = (Integer.parseInt(st.nextToken()) - 1);
@@ -46,6 +46,7 @@ public class BOJ_11725 {
         visited[v] = true;
         for (int vertex : list[v]) {
             if (!visited[vertex]) {
+                // 현재 방문한 노드가 다음 제시될 노드의 부모이므로 부모정보 배열에 입력함
                 parent[vertex] = v + 1;
                 dfs(vertex);
             }
