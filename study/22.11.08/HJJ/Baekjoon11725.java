@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 /**
- * 문제이름 : 트리의 무보 찾기
+ * 문제이름 : 트리의 부모 찾기
  * 링크 : https://www.acmicpc.net/problem/11725
  */
 
