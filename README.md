@@ -83,7 +83,7 @@
 | 33 | 2022.10.25 | 한지희 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [방금 그 곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
 | 34 | 2022.11.01 | 박기범 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) |
 | 35 | 2022.11.08 | 황정준 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [30번](https://www.acmicpc.net/problem/13116) | [부동산 다툼](https://www.acmicpc.net/problem/20364) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
-| 36 | 2022.11.15 |  |  |  |  |  |
+| 36 | 2022.11.15 | 방지민 | [방번호](https://www.acmicpc.net/problem/1475) | [한 줄로 서기](https://www.acmicpc.net/problem/1138) | [마인크래프트](https://www.acmicpc.net/problem/18111) | [상어 초등학교](https://www.acmicpc.net/problem/21608) |
 | 37 | 2022.11.22 |  |  |  |  |  |
 | 38 | 2022.11.29 |  |  |  |  |  |
 | 39 | 2022.12.06 |  |  |  |  |  |
