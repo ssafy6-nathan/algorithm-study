@@ -45,8 +45,6 @@ public class Programmers_42579 {
         totalEntry.sort(((o1, o2) -> totalPlays.get(o2.getKey()) - totalPlays.get(o1.getKey()))); // 람다식을 이용한 정렬
 
         // 4. 장르 별 곡들의 재생횟수 정렬 후 정답 배열에 저장
-        int idx = 0; // 정답 배열을 반복문의 변수로 쓰지않으므로, 따로 인덱스 변수 선언
-
         // 해당 반복문의 변수는 엔트리, 즉 해시맵의 (key, value)를 하나의 인덱스로 인식함 -> key.getKey() = 장르이름
         // 정렬된 totalPlays 해시맵의 키 값을 이용하여 재생횟수가 높은 순서부터 차례대로 순회
         for(Map.Entry<String, Integer> genre : totalEntry){
