@@ -85,9 +85,8 @@ public class BOJ_21608 {
 /*
 //        =================== 자리배치확인 =======================
 //        for (int i = 1; i < classroom.length - 1; i++) {
-//            for (int j = 1; j < classroom.length - 1; j++) {
+//            for (int j = 1; j < classroom.length - 1; j++)
 //                System.out.print(classroom[i][j] + " ");
-//            }
 //            System.out.println();
 //        }
  */
@@ -157,24 +156,12 @@ public class BOJ_21608 {
             return blanks;
         }
 
-        public void setBlanks(int blanks) {
-            this.blanks = blanks;
-        }
-
         public int getRow() {
             return row;
         }
 
-        public void setRow(int row) {
-            this.row = row;
-        }
-
         public int getCol() {
             return col;
-        }
-
-        public void setCol(int col) {
-            this.col = col;
         }
 
         @Override
@@ -183,3 +170,15 @@ public class BOJ_21608 {
         }
     }
 }
+
+/*
+ [풀이]
+ 1. 각 학생마다 좋아하는 학생 4명이 적힌 정보를 Arraylist에 저장함 (0번째 요소는 본인의 번호, 1~4번째가 좋아하는 학생의 번호)
+ 2. 자리배치도는 2차원 배열로 생성 (상하좌우탐색을 해야하므로 테두리를 포함한 크기로 선언)
+ 3. 첫 번째 학생은 무조건 (2,2) 자리에 앉게되므로 루프 제외
+ 4. 두 번째 학생부터 반복문을 돌며, 인접한 자리에 좋아하는 친구 수가 가장 많은 자리를 기준으로 후보군 생성 (상하좌우 탐색)
+    (=> 이때 후보군은 배열에 저장하며, 배열 안에는 해당 자리의 인접 빈칸 수와 행열 인덱스 정보를 가진 객체가 저장됨)
+ 5. 후보군 배열은 이미 문제의 1번 조건을 만족하므로 2번 조건인 빈칸 수를 기준으로 내림차순 정렬
+ 6. 정렬 후 가장 첫 번째 순서에 있는 객체가 적합한 자리이므로 자리배치도 배열에 학생 번호 저장
+ 7. 자리배치도가 완성되면 자리배치도 배열을 돌며 각 학생의 상하좌우를 탐색하여 만족도 계산
+ */
