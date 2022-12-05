@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * 문제이름 : 단어 수학
+ * 문제이름 : 단어 수학 (실패)
  * 링크 : https://www.acmicpc.net/problem/1339
  */
 
