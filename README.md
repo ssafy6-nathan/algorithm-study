@@ -87,7 +87,7 @@
 | 37 | 2022.11.22 | 이정훈 | [싫은데요](https://www.acmicpc.net/problem/25916) | [망가진 키보드](https://www.acmicpc.net/problem/6503) | [Coins](https://www.acmicpc.net/problem/3067) | [평범한 배낭](https://www.acmicpc.net/problem/12865) |
 | 38 | 2022.11.29 | 한혜성 | [안녕](https://www.acmicpc.net/problem/1535) | [줄세우기](https://www.acmicpc.net/problem/2631) | [LCS3](https://www.acmicpc.net/problem/1958) | [내리막 길](https://www.acmicpc.net/problem/1520) |
 | 39 | 2022.12.06 | 한지희 | [종이 접기](https://www.acmicpc.net/problem/1802) | [단어 수학](https://www.acmicpc.net/problem/1339) | [캠핑](https://www.acmicpc.net/problem/4796) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
-| 40 | 2022.12.13 |  |  |  |  |  |
+| 40 | 2022.12.13 | 박기범 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | [신입 사원](https://www.acmicpc.net/problem/1946) | [저울](https://www.acmicpc.net/problem/2437) | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |
 
 
 <!-- 
