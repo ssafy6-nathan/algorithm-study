@@ -1,0 +1,9 @@
+-- 프로그래머스 59043번
+-- 있었는데요 없었습니다
+-- (https://school.programmers.co.kr/learn/courses/30/lessons/59043)
+
+-- 코드를 입력하세요
+SELECT AINS.ANIMAL_ID, AINS.NAME
+FROM ANIMAL_OUTS AOUT, ANIMAL_INS AINS
+WHERE AINS.ANIMAL_ID = AOUT.ANIMAL_ID AND AOUT.DATETIME < AINS.DATETIME
+ORDER BY AINS.DATETIME;
