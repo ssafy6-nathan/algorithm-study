@@ -1,6 +1,7 @@
 package PROGRAMMERS;
 
 import java.util.HashMap;
+import java.util.Iterator;
 
 public class 위장 {
     
@@ -17,7 +18,11 @@ public class 위장 {
             map.put(clothes[c][1], map.getOrDefault(clothes[c][1], 0)+1);
             System.out.println(map.values());
         }
-
-        return clothes.length * map.values();
+        
+        Iterator<Integer> it = map.values().iterator();
+        while(it.hasNext()) {
+            answer *= it.next().intValue()+1;
+        }
+        return answer-1;
     }
 }
