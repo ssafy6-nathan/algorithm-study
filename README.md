@@ -49,7 +49,7 @@
 |  | 날짜 | 리더 | 1 | 2 | 3 | 4 |
 | :----: | --------------- | ------------- | -------------- | -------------- | -------------- | -------------- |
 | 43 | 2023.01.03 | 이정훈 | [막대기](https://www.acmicpc.net/problem/1094) | [터렛](https://www.acmicpc.net/problem/1002) | [곱셈](https://www.acmicpc.net/problem/1629) | [놀이공원](https://www.acmicpc.net/problem/1561) | 
-| 44 | 2023.01.10 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 44 | 2023.01.10 | 한지희 | [std::shared_ptr](https://www.acmicpc.net/problem/26257) | [다중 일차 함수](https://www.acmicpc.net/problem/26258) | [백룸](https://www.acmicpc.net/problem/26259) | [이가 빠진 이진 트리](https://www.acmicpc.net/problem/26260) |
 | 45 | 2023.01.17 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 | 46 | 2023.01.24 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 | 47 | 2023.01.31 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
