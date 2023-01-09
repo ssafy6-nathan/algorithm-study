@@ -33,7 +33,6 @@ public class Baekjoon26258 {
     }
 
     public static int f(double x) {
-        int X = (int)Math.floor(x);
         int idx = binarySearch(x, 0, N);
          int gradient = pos[idx][1] - pos[idx+1][1];
         if (gradient > 0)
