@@ -1,6 +1,7 @@
 package study.nathan_algo_study.week44;
 
 import java.io.*;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /**
@@ -9,90 +10,44 @@ import java.util.StringTokenizer;
  */
 
 public class Baekjoon26260 {
+    static int[] inputTree;
+    static StringBuilder sb;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
 
         int N = Integer.parseInt(br.readLine());
         st = new StringTokenizer(br.readLine());
-
-        Tree tree = new Tree();
+        inputTree = new int[N];
+        sb = new StringBuilder();
+        int deleteIdx = -1;
         for (int i = 0; i < N; i++) {
-            int value = Integer.parseInt(st.nextToken());
-
-            if (value == -1)
-                continue;
-
-            tree.insert(value);
+            inputTree[i] = Integer.parseInt(st.nextToken());
+            if (inputTree[i] == -1)
+                deleteIdx = i;
         }
-        int x = Integer.parseInt(br.readLine());
-        tree.insert(x);
 
-        StringBuilder sb = new StringBuilder();
-        tree.postOrder(tree.root, sb);
+        int x = Integer.parseInt(br.readLine());
+        inputTree[deleteIdx] = x;
+        Arrays.sort(inputTree);
+
+        postOrder(0, N - 1);
+
         System.out.println(sb);
 
     }
-}
 
-class Node {
-    int value;
-    Node left;
-    Node right;
-
-    public Node(int value) {
-        this.value = value;
-        this.left = null;
-        this.right = null;
-    }
-
-}
-
-class Tree {
-    Node root = null;
-
-    public void insert(int val) {
-        if (root == null)
-            root = new Node(val);
-        else {
-            Node head = root;
-            Node curr;
-
-            while (true) {
-                curr = head;
-                if (head.value > val) {
-                    head = head.left;
-
-                    if (head == null) {
-                        curr.left = new Node(val);
-                        break;
-                    }
-                } else {
-                    head = head.right;
-
-                    if (head == null) {
-                        curr.right = new Node(val);
-                        break;
-                    }
-                }
-            }
-
-        }
-
-    }
-
-    public void postOrder(Node node, StringBuilder sb) {
-        if (node == null)
+    public static void postOrder(int start, int end) {
+        if (start >= end) {
+            sb.append(inputTree[start] + " ");
             return;
+        }
+        int mid = (start + end) / 2;
+        postOrder(start, mid - 1);
+        postOrder(mid + 1, end);
 
-        if (node.left != null)
-            postOrder(node.left, sb);
-
-        if (node.right != null)
-            postOrder(node.right, sb);
-
-        sb.append(node.value+" ");
+        sb.append(inputTree[mid] + " ");
     }
 }
 
