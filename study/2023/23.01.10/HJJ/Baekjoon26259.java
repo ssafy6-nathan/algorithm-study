@@ -1,6 +1,7 @@
 package study.nathan_algo_study.week44;
 
 import java.io.*;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /**
@@ -16,8 +17,9 @@ public class Baekjoon26259 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st = new StringTokenizer(br.readLine());
+
+
 
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
@@ -42,9 +44,15 @@ public class Baekjoon26259 {
             y1++;
             y2++;
             dp = new int[N + 1][M + 1];
+            for (int i = 0; i < N+1; i++) {
+                Arrays.fill(dp[i],-1000);
+            }
+
             for (int i = 1; i <= N; i++) {
                 for (int j = 1; j <= M; j++) {
-                    if (isRow && i == x1 && j >= y1 && j < y2) {   //가로벽이 존재하고 현재 탐색중인 좌표 위에 벽이 있으면
+                    if (i == 1 && j == 1)
+                        dp[i][j] = map[i][j];
+                    else if (isRow && i == x1 && j >= y1 && j < y2) {   //가로벽이 존재하고 현재 탐색중인 좌표 위에 벽이 있으면
                         if (dp[i][j - 1] == 0)
                             continue;
                         dp[i][j] = dp[i][j - 1] + map[i][j];
