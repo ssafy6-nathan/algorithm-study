@@ -32,9 +32,3 @@ public class LeetCode_49 {
         return new ArrayList<>(map.values());
     }
 }
-
-// new Arraylist<>(map.values());
-// 는 되는데
-// List<List<String>> list = new Arraylist<>();
-// list = map.values();
-// 는 왜 안되지?
