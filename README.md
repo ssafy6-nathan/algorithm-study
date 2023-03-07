@@ -54,8 +54,8 @@
 | 46 | 2023.02.07 | 한지희 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |
 | 47 | 2023.02.14 | 황정준 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |
 | 48 | 2023.02.28 | 방지민 | [자원 캐기](https://www.acmicpc.net/problem/14430) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [영역 구하기](https://www.acmicpc.net/problem/2583) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
-| 49 | 2023.03.07 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
-| 50 | 2023.03.14 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 49 | 2023.03.14 | 이정훈 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
+| 50 | 2023.03.21 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 
 
 - [2022년도 Week Study](./study/2022/README.md)
