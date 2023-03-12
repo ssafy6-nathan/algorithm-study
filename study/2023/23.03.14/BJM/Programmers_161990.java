@@ -1,7 +1,6 @@
 package week49;
 
 import java.util.Arrays;
-import java.util.StringTokenizer;
 
 /**
  * 프로그래머스 161990번
