@@ -1,9 +1,9 @@
 package week49;
 
 /**
- * 프로그래머스 161990번
- * 덧칠하기
- * (https://school.programmers.co.kr/learn/courses/30/lessons/161989)
+ * 프로그래머스 161585번
+ * 혼자서 하는 틱택토
+ * (https://school.programmers.co.kr/learn/courses/30/lessons/161585)
  **/
 public class Programmers_160585 {
     public static void main(String[] args) {
