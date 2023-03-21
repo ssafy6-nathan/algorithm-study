@@ -55,8 +55,11 @@
 | 47 | 2023.02.14 | 황정준 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |
 | 48 | 2023.02.28 | 방지민 | [자원 캐기](https://www.acmicpc.net/problem/14430) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [영역 구하기](https://www.acmicpc.net/problem/2583) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
 | 49 | 2023.03.14 | 이정훈 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
-| 50 | 2023.03.21 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
-
+| 50 | 2023.03.28 |  | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [미로뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
+| 51 | 2023.04.04 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 52 | 2023.04.11 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 53 | 2023.04.18 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 54 | 2023.04.25 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 
 - [2022년도 Week Study](./study/2022/README.md)
 
