@@ -57,7 +57,7 @@
 | 49 | 2023.03.14 | 이정훈 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
 | 50 | 2023.03.28 | 박기범 | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
 | 51 | 2023.04.04 | 한지희 | [파일 정리](https://www.acmicpc.net/problem/20291) | [좌표 압축](https://www.acmicpc.net/problem/18870) | [선 긋기](https://www.acmicpc.net/problem/2170) | [센서](https://www.acmicpc.net/problem/2212) |
-| 52 | 2023.04.11 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 52 | 2023.04.11 | 황정준 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
 | 53 | 2023.04.18 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 | 54 | 2023.04.25 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
 
