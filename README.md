@@ -59,7 +59,12 @@
 | 51 | 2023.04.04 | 한지희 | [파일 정리](https://www.acmicpc.net/problem/20291) | [좌표 압축](https://www.acmicpc.net/problem/18870) | [선 긋기](https://www.acmicpc.net/problem/2170) | [센서](https://www.acmicpc.net/problem/2212) |
 | 52 | 2023.04.11 | 황정준 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
 | 53 | 2023.04.18 | 이정훈 | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) |
-| 54 | 2023.04.25 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 54 | 2023.04.25 | 방지민 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [병든 나이트](https://www.acmicpc.net/problem/1783) | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) |
+| 55 | 2023.05.02 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 56 | 2023.05.09 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+| 57 | 2023.05.16 |  | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) | [](https://www.acmicpc.net/problem/) |
+
+
 
 - [2022년도 Week Study](./study/2022/README.md)
 
