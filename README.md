@@ -62,8 +62,8 @@
 | 54 | 2023.04.25 | 방지민 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [병든 나이트](https://www.acmicpc.net/problem/1783) | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) |
 | 55 | 2023.05.09 | 한지희 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
 | 56 | 2023.05.23 | 박기범 | [덩치](https://www.acmicpc.net/problem/7568) | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | [통계학](https://www.acmicpc.net/problem/2108) |
-| 57 | 2023.05.30 | 황정준 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
-
+| 57 | 2023.06.06 | 황정준 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
+| 58 | 2023.06.13 | 방지민 | [생태학](https://www.acmicpc.net/problem/4358) | [촌수계산](https://www.acmicpc.net/problem/2644) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
 
 
 - [2022년도 Week Study](./study/2022/README.md)
