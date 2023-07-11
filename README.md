@@ -65,7 +65,8 @@
 | 57 | 2023.06.06 | 황정준 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
 | 58 | 2023.06.13 | 방지민 | [생태학](https://www.acmicpc.net/problem/4358) | [촌수계산](https://www.acmicpc.net/problem/2644) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
 | 59 | 2023.06.27 | 이정훈 | [A → B](https://www.acmicpc.net/problem/16953) | [나무 탈출](https://www.acmicpc.net/problem/15900) | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [뱀](https://www.acmicpc.net/problem/3190) |
-| 60 | 2023.07.04 | 한지희 | [문서 검색](https://www.acmicpc.net/problem/1543) | [접두사](https://www.acmicpc.net/problem/1141) | [추월](https://www.acmicpc.net/problem/2002) | [안전 영역](https://www.acmicpc.net/problem/2468) |
+| 60 | 2023.07.11 | 한지희 | [문서 검색](https://www.acmicpc.net/problem/1543) | [접두사](https://www.acmicpc.net/problem/1141) | [추월](https://www.acmicpc.net/problem/2002) | [안전 영역](https://www.acmicpc.net/problem/2468) |
+| 61 | 2023.07.18 | 황정준 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 
 
 - [2022년도 Week Study](./study/2022/README.md)
