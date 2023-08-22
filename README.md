@@ -69,6 +69,7 @@
 | 61 | 2023.07.18 | 황정준 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 | 62 | 2023.07.25| 방지민 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |
 | 63 | 2023.08.22| 이정훈 | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [좋은 단어](https://www.acmicpc.net/problem/3986) | [에디터](https://www.acmicpc.net/problem/1406) |
+| 64 | 2023.08.29 | 박기범 | [구름톤챌린지6일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지7일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지8일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지9일차문제](https://level.goorm.io/l/challenge) |
 
 - [2022년도 Week Study](./study/2022/README.md)
 
