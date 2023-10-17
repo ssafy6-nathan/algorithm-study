@@ -67,10 +67,11 @@
 | 59 | 2023.06.27 | 이정훈 | [A → B](https://www.acmicpc.net/problem/16953) | [나무 탈출](https://www.acmicpc.net/problem/15900) | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [뱀](https://www.acmicpc.net/problem/3190) |
 | 60 | 2023.07.11 | 한지희 | [문서 검색](https://www.acmicpc.net/problem/1543) | [접두사](https://www.acmicpc.net/problem/1141) | [추월](https://www.acmicpc.net/problem/2002) | [안전 영역](https://www.acmicpc.net/problem/2468) |
 | 61 | 2023.07.18 | 황정준 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
-| 62 | 2023.07.25| 방지민 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |
-| 63 | 2023.08.22| 이정훈 | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [좋은 단어](https://www.acmicpc.net/problem/3986) | [에디터](https://www.acmicpc.net/problem/1406) |
+| 62 | 2023.07.25 | 방지민 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |
+| 63 | 2023.08.22 | 이정훈 | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [좋은 단어](https://www.acmicpc.net/problem/3986) | [에디터](https://www.acmicpc.net/problem/1406) |
 | 64 | 2023.09.12 | 박기범 | [구름톤챌린지6일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지7일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지8일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지9일차문제](https://level.goorm.io/l/challenge) |
 | 65 | 2023.09.19 | 한지희 | [구름톤챌린지1일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지2일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지3일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지4일차문제](https://level.goorm.io/l/challenge) |
+| 66 | 2023.10.24 | 황정준 | [구름톤챌린지5일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지10일차문제](https://level.goorm.io/l/challenge) | [구름톤챌린지11일차문제](https://level.goorm.io/l/challenge) | |
 
 - [2022년도 Week Study](./study/2022/README.md)
 
